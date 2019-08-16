@@ -6,8 +6,7 @@
 #include <opencv2/core.hpp>
 #include "TrafficObject.h"
 
-class Graphics
-{
+class Graphics{
 public:
     // constructor / desctructor
 
